@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "golang-yt-microservices",
+		"path": "golang-yt-microservices"
+	},
+	{
+		"name": "product-images",
+		"path": "product-images"
+	},
+	{
+		"path": "golang-yt-microservices-frontend"
+	},
+	{
+		"path": "currency"
+	}
+],
+  "settings": {}
+}
